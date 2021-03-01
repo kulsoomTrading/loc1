@@ -85,7 +85,7 @@
   "dependencies": {
     "cesium": "^1.46.1",
     "rollup": "^0.57.1",
-    "three": "^0.91.0",
+    "three": "^0.125.0",
     "uglify-js": "^3.4.0"
   }
 }
